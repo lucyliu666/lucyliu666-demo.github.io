@@ -2,6 +2,6 @@
 title: "About me"
 ---
 
-## Header
+## Self image
 
-Say more about you here.
+Hi everyone, I am a Phd student with Cognitive Psychology in Grenoble. I am happy to be here to say hi to you. Want to know more about me? Let's wait and see.
