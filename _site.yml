@@ -15,7 +15,7 @@ navbar:
       href: cv.html
     - text: "Blog"
       icon: fa-rss
-      href: https://lucyliu666.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: https://www.researchgate.net/profile/Lucy_Liu41?ev=hdr_xprf&_sg=SCmxERfgHbKKFmOyi8i6t_fpBqhxMYz01WM00Ls72rgOQJ7HcF2mZa4cfHszd0jzoHwDtZ2mWvtvUrYs-HN7BgRi  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
